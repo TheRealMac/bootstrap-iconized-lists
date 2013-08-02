@@ -1,0 +1,17 @@
+ul[class*="list-icon-"] {
+  list-style: none;
+  margin-left:14px;
+}
+ul[class*="list-icon-"] li {
+   margin-top:-0.8em;
+}
+ul[class*="list-icon-"] li:before { 
+    content: "";
+    background-image: url("img/glyphicons-halflings.png");
+    background-position: -24px -24px;
+    width: 14px;height:14px;
+    display: block;
+    left: -1.2em;
+    top: 1.15em;
+    position: relative;
+}
