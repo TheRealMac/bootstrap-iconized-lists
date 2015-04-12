@@ -1,6 +1,8 @@
 bootstrap-iconized-lists
 ========================
 
+only for Bootstrap 2.3.2
+
 helps easily to create unordered lists with the Bootstrap Icons as list item bullets.
 Just by adding the class to the unordered list.
 
